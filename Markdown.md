@@ -30,6 +30,9 @@
 
 ## Ссылки
 
+Чтобы добавить ссылку в текст, нужно сделать 
+[следующее](https://learn.microsoft.com/ru-ru/contribute/how-to-write-links).
+
 ## Работа с таблицами
 
 ## Цитаты
